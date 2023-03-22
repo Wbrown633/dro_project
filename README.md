@@ -5,3 +5,4 @@ This project allows the user to take an off the shelf [shahe DRO](https://www.am
 
 The arduino sketch can be found in the dro_sketch folder. The main file is intended to be run on a computer listening to the arduino over a usb -> serial connection. 
 
+parse_logs.py is specific to the use case I was using, but could be adapted to other uses.
